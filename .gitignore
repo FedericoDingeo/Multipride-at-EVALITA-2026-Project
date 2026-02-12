@@ -76,7 +76,10 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Project-specific (do not commit datasets)
+data/
 
 # IPython
 profile_default/
